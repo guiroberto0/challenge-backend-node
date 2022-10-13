@@ -1,5 +1,6 @@
 {
     "env":{
-        "EXPRESS_PORT": 3010
+        "EXPRESS_PORT": 3010,
+        "PASSWORD": "xQgAXsZLpRj4kfM"
     }
 }
